@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://elaleiye.github.io/MDK/sitemap_index.txt
+Sitemap: https://elaleiye.github.io/NcV/sitemap_index.txt
+Sitemap: https://elaleiye.github.io/efI/sitemap_index.txt
+Sitemap: https://elaleiye.github.io/hRs/sitemap_index.txt
